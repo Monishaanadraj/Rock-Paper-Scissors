@@ -26,7 +26,7 @@ It allows you to play manually with buttons or keyboard shortcuts, and also incl
 
 ## 🖼 Demo
 
-**Example: [Play the Game Here](https://monishaanadraj.github.io/Rock-Paper-Scissors/)**
+**Play the Game Here : https://monishaanadraj.github.io/Rock-Paper-Scissors/**
 
 ---
 
